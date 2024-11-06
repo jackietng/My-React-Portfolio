@@ -6,7 +6,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
 - [License](#license)
@@ -17,7 +16,7 @@ A single-page portfolio application built with React and Vite, showcasing a shor
 
 ## Features
 - Navigation without page refresh
-- Project showcase with links to live demos and GitHub repositories
+- Project showcase with links to deployed applications and GitHub repositories
 - Contact form with validation
 - Downloadable resume
 
@@ -42,7 +41,7 @@ npm run dev
 ```
 
 ## Usage
-After installation, the application will be available at `http://localhost:`. Navigate through different sections using the navigation bar:
+After installation, the application will be available at `http://localhost:3001`. Navigate through different sections using the navigation bar:
 - **About**: Learn about my background and skills
 - **Portfolio**: View my projects with links to live demos and code
 - **Contact**: Send me a message through the contact form
@@ -59,16 +58,6 @@ After installation, the application will be available at `http://localhost:`. Na
 - Node.js
 - npm
 
-## Screenshots
-![About Page]()
-*About page featuring professional information*
-
-![Portfolio Page]()
-*Portfolio page showcasing projects*
-
-![Contact Page]()
-*Contact form with validation*
-
 ## Deployment
 This application is deployed on Netlify. You can view the live site at: []
 
@@ -80,12 +69,7 @@ npm run build
 2. Deploy the `dist` folder to your hosting platform of choice.
 
 ## Contributing
-Please feel free to contribut to this application with the following steps: 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Create a Pull Request
+Please feel free to contribut to this application!
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
