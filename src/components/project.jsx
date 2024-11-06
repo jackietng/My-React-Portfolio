@@ -20,7 +20,7 @@ function Project({ title, image, deployedLink, githubLink, description }) {
             rel="noopener noreferrer"
             className="text-blue-600 hover:text-blue-800"
           >
-            Live Demo
+            Deployed Application
           </a>
           <a 
             href={githubLink}
@@ -28,7 +28,7 @@ function Project({ title, image, deployedLink, githubLink, description }) {
             rel="noopener noreferrer"
             className="text-blue-600 hover:text-blue-800"
           >
-            GitHub
+            GitHub Repository
           </a>
         </div>
       </div>
