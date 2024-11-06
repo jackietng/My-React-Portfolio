@@ -13,7 +13,7 @@
 - [Questions](#questions)
 
 ## Description
-A single-page portfolio application built with React and Vite, showcasing a short biography, six deployed applications, and technical skills. The portfolio features a modern, responsive design with seamless navigation between different sections.
+A single-page portfolio application built with React and Vite, showcasing a short biography, deployed applications, and technical skills. The portfolio features a modern, responsive design with seamless navigation between different sections.
 
 ## Features
 - Navigation without page refresh

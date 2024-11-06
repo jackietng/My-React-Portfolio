@@ -1,5 +1,4 @@
-
-// src/components/Resume.jsx
+// src/components/resume.jsx
 import React from 'react';
 
 function Resume() {
