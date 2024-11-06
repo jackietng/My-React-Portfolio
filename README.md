@@ -41,7 +41,7 @@ npm run dev
 ```
 
 ## Usage
-After installation, the application will be available at `http://localhost:3001`. Navigate through different sections using the navigation bar:
+After installation, the application will be available at `http://localhost:3002`. Navigate through different sections using the navigation bar:
 - **About**: Learn about my background and skills
 - **Portfolio**: View my projects with links to live demos and code
 - **Contact**: Send me a message through the contact form
