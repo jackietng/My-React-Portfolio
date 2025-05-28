@@ -11,7 +11,31 @@ function Portfolio() {
       image: "/images/weather-app.png", 
       deployedLink: "https://weather-dashboard-application-ikgn.onrender.com",
       githubLink: "https://github.com/jackietng/Weather-Dashboard-Application"
-    }    
+    }, 
+    {
+      title: "Knowbie",
+      description: "Engaging knowledge-testing platform designed for users of all ages to test their general knowledge across various categories and track progress over time.",
+      Technologies: "Front-End: React.js, TypeScript, Tailwind CSS, Recharts (for data visualization), SWR (for efficient data fetching); Back-End: Node.js, API routes, Sequelize, JWT, Bcrypt, Open Trivia API, OpenAI API",
+      image: "", 
+      deployedLink: "https://knowbie.onrender.com/",
+      githubLink: ""
+    },
+    {
+      title: "Bedecked",
+      description: "Randomized yet customizable Magic the Gathering deck builder pulling over 90,000 cards from the Scryfall API to allow users to experience both the fun and creativity of Magic the Gathering. ",
+      Technologies: "React.js, TypeScript, Node.js, PostgreSQL, Sass, Scryfall API",
+      image: "/images/bedecked.png", 
+      deployedLink: "https://bedecked.onrender.com/",
+      githubLink: "https://github.com/jackietng/bedecked"
+    },
+    {
+      title: "Mood Board",
+      description: "A dynamic mood board application that allows users to add images and text to create personalized mood boards",
+      Technologies: "HTML, CSS, and JavaScript with local storage for data persistence",
+      image: "/images/mood-board.png", 
+      deployedLink: "https://jackietng.github.io/Mood-Board/",
+      githubLink: "https://github.com/jackietng/Mood-Board"
+    },
   ];
 
   return (
