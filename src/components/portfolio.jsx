@@ -16,7 +16,7 @@ function Portfolio() {
       title: "Knowbie",
       description: "Engaging knowledge-testing platform designed for users of all ages to test their general knowledge across various categories and track progress over time.",
       Technologies: "Front-End: React.js, TypeScript, Tailwind CSS, Recharts (for data visualization), SWR (for efficient data fetching); Back-End: Node.js, API routes, Sequelize, JWT, Bcrypt, Open Trivia API, OpenAI API",
-      image: "", 
+      image: "/images/knowbie.png", 
       deployedLink: "https://knowbie.onrender.com/",
       githubLink: ""
     },
