@@ -10,7 +10,7 @@ function Footer() {
     },
     {
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/jackie-nguyen-11735991/',
+      url: 'https://www.linkedin.com/in/jacqueline-nguyen-11735991/',
       icon: '👔 '  // Fixed emoji
     }
   ];
