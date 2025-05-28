@@ -18,7 +18,7 @@ function Portfolio() {
       Technologies: "Front-End: React.js, TypeScript, Tailwind CSS, Recharts (for data visualization), SWR (for efficient data fetching); Back-End: Node.js, API routes, Sequelize, JWT, Bcrypt, Open Trivia API, OpenAI API",
       image: "/images/knowbie.png", 
       deployedLink: "https://knowbie.onrender.com/",
-      githubLink: ""
+      githubLink: "https://github.com/jackietng/knowbie"
     },
     {
       title: "Bedecked",
