@@ -20,7 +20,11 @@ function About() {
           </p>
 
           <p className="text-gray-600 leading-relaxed mb-4">
-          My name is Jacqueline Nguyen. I also go by "Jackie." I was a Financial Aid Specialist with over 6 years of experience in reviewing financial aid regulations and data for both university and community college students. I am now a proud stay-at-home mom with a vivacious 1-year-old. My empathy, eargerness to learn, and curiosity allow me to understand and question applications both from the user and technical perspective. In addition to learning coding, I also enjoy exploring new foods and reading in my free time.
+          Hi, I’m Jackie — a junior full stack developer with a background in education, insurance, and public service. I create thoughtful, scalable web applications with React, Node.js, and a deep love for clean, purposeful code.
+
+          I’m passionate about tech that uplifts, simplifies, and empowers — especially for families, educators, and everyday users. When I’m not coding, I’m parenting with intention, learning languages, kickboxing, or cooking up something (literally and figuratively).
+
+          I believe in writing software the way I live life: with clarity, kindness, and curiosity. Let’s build something that matters.
           </p>
                             
           <p className="text-gray-600 leading-relaxed mb-4">
